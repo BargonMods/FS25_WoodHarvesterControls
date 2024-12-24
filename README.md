@@ -18,7 +18,7 @@ I've spent hundreds of hours of my free time developing this so please don't be 
 ## How to download
 
 1. Go to the [releases page](https://github.com/BargonMods/FS25_WoodHarvesterControls/releases) and download the latest version.
-2. Place the zip in your mods folder and you are good to go.
+2. Place the *FS25_WoodHarvesterControls.zip* in your mods folder and you are good to go.
 3. Once in the game, remember to set your input bindings. Check [Input Bindings & Dual Joystick Setup | #2 Wood Harvester Controls Mod Guide](https://youtu.be/OWci1IiBBPE?si=Gjt3ITx5fRLQXc56). It's a FS22 video but that's still 100% valid.
 4. Enjoy!
 
